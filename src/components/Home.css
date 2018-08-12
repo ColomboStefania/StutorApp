@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.mainDiv {
+	background-image: url("../lib/background-start.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logoDiv {
+	/* padding-top: 100px; */
+	height: 100px;
+	margin-bottom: 120px;
+}
+
+.logoText {
+	font-family:   'Poppins', sans-serif;
+	font-weight:   bold;
+	font-size:     80px;
+	color: #ffffff00;
+	background-image: url("../lib/logo-text.png");
+	background-size: cover;
+	padding: 0px;
+	position: relative;
+
+}
+
+.taglineDiv {
+	Line-Height: 30px;
+	/* padding-bottom: 200px; */
+	margin-bottom: 100px;
+}
+
+.meet {
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	color: #f77171
+
+}
+
+.learn {
+	font-family:   'Poppins', sans-serif;
+	font-weight:   bold;
+	font-size: 40px;
+	color: #5e93db
+}
+
+.teach {
+	font-family:   'Poppins', sans-serif;
+	font-weight:   bold;
+	font-size: 40px;
+	color: #8ae0ad
+}
+
+.createProfile {
+	background-color: #8AE0AD;
+	border: none;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	height: 40px;
+	width: 250px;
+	border-radius: 50%;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 3%;
+	text-align: center;
+	margin-bottom: 170px;
+}
+
+.createProfileText {
+	color: white;
+	text-decoration: inherit;
+	font-family:   'Poppins', sans-serif;
+	font-size: 25px;
+	font-weight: 100;
+	text-align: center;
+
+}
+
+.loginDiv {
+	margin-bottom: 80px;
+}
+
+.loginText {
+	color: #555555;
+	font-family:   'Poppins', sans-serif;
+	font-size: 17px;
+	font-weight: 100;
+	text-decoration: none;
+}
